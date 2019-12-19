@@ -1,0 +1,74 @@
+{
+    "name": "Booker",
+    "description": "Booker simplifies spa and salon management with Online Booking Software. Discover why Spas & Salons trust Booker to manage scheduling, integrated point-of-sale, and more!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1810-booker.jpg",
+    "tags": [
+        "api provider",
+        "appointments",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/booker\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Booker",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1810-booker.jpg",
+            "humanURL": "http:\/\/www.booker.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/booker-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.booker.com\/company\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/booker-software"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/apidoc.booker.com\/Content\/index.html"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/apidoc.booker.com\/Content\/index.html"
+        },
+        {
+            "type": "Email",
+            "url": "support@booker.com"
+        },
+        {
+            "type": "Email",
+            "url": "account.support@booker.com"
+        },
+        {
+            "type": "Email",
+            "url": "security@booker.com"
+        },
+        {
+            "type": "Email",
+            "url": "debs@booker.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/getbooker"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.booker.com\/"
+        }
+    ]
+}
